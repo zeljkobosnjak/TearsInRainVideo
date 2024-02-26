@@ -1,2 +1,8 @@
-package org.tearsinrainvideo.tearsinrainvideo.repository;public interface CustomerRepository {
+package org.tearsinrainvideo.tearsinrainvideo.repository;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+import org.tearsinrainvideo.tearsinrainvideo.model.Customer;
+
+public interface CustomerRepository extends JpaRepository<Customer, Long> {
+
 }
