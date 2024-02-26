@@ -36,15 +36,12 @@
 - **In-memory database** - for development ease, reflecting the transient nature of... :)
 - **Validated through Postman** -  despite a demanding week with critical production deployment, in my current role, the basic functionality implemented has been tested to demonstrate the video rental system
 
-![Post Customer](screenshots/post_customer.png)
+<a href="screenshots/post_customer.png"><img src="screenshots/post_customer.png" width="200" title="Post Customer" alt="Post Customer"></a>
+<a href="screenshots/post_film.png"><img src="screenshots/post_film.png" width="200" title="Post Film" alt="Post Film"></a>
+<a href="screenshots/post_rental_error.png"><img src="screenshots/post_rental_error.png" width="200" title="Post Rental Error" alt="Post Rental Error"></a>
+<a href="screenshots/post_rental.png"><img src="screenshots/post_rental.png" width="200" title="Post Rental" alt="Post Rental"></a>
+<a href="screenshots/post_return.png"><img src="screenshots/post_return.png" width="200" title="Post Return" alt="Post Return"></a>
 
-![Post Film](screenshots/post_film.png)
-
-![Post Rental Error](screenshots/post_rental_error.png)
-
-![Post Rental](screenshots/post_rental.png)
-
-![Post Return](screenshots/post_return.png)
 
 
 ## Notes
