@@ -35,6 +35,12 @@
 - **Lombok integration** - keep our code DRY and clean
 - **In-memory database** - for development ease, reflecting the transient nature of... :)
 - **Validated through Postman** -  despite a demanding week with critical production deployment, in my current role, the basic functionality implemented has been tested to demonstrate the video rental system
+![Post Customer](screenshots/post_customer.png)
+![Post Film](screenshots/post_film.png)
+![Post Rental Error](screenshots/post_rental_error.png)
+![Post Rental](screenshots/post_rental.png)
+![Post Return](screenshots/post_return.png)
+
 
 ## Notes
 
