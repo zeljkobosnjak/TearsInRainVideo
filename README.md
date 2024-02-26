@@ -42,5 +42,7 @@
 <a href="screenshots/post_rental.png"><img src="screenshots/post_rental.png" width="200" title="Post Rental" alt="Post Rental"></a>
 <a href="screenshots/post_return.png"><img src="screenshots/post_return.png" width="200" title="Post Return" alt="Post Return"></a>
 
+- **Naming** - All names of methods, variables, and other elements are self-explanatory for the simplicity of modern communication through code.
+
 ## Notes
-The application could still be refined to contain implemented test scenarios, and it could also be more complex to manipulate the rental of movies in the backend, and then all of that would be nicely formed for handling via the web interface.
+In this case, the currency is EUR. The application could still be refined to contain implemented test scenarios, and it could also be more complex to manipulate the rental of movies in the backend, and then all of that would be nicely formed for handling via the web interface.
